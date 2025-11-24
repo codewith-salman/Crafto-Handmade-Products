@@ -42,7 +42,6 @@ Crafto is a perfect UI concept for:
 - Clean typography for a natural feel  
 - Featured product spotlight section  
 - Lightweight and fast-loading structure  
-
 ---
 
 ### 🛠️ Built With
