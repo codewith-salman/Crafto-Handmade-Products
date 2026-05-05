@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Crafto%20Handmade%20Products/assets/images/desktop.png" alt="Crafto Website Logo" width="120"/>
+<img src="Crafto%20Handmade%20Products/favicon.svg" alt="Crafto Website Logo" width="120"/>
 
 <br />
 <br />
