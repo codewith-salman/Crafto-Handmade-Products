@@ -72,8 +72,7 @@ Ideal for:
 - Smooth hover animations and transitions  
 - Category-wise product organization  
 - Warm, aesthetic, and artisan-themed UI  
-- Featured product spotlight section  
-- Lightweight and fast-loading structure  
+- Featured product spotlight section 
 
 ---
 
