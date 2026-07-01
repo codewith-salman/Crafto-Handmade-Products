@@ -21,7 +21,6 @@
 <img src="Crafto%20Handmade%20Products/favicon.svg" alt="Crafto Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🧵 Crafto – Handmade Products Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - E-commerce concept designs  
 - Portfolio demonstration projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -79,8 +76,6 @@ Ideal for:
 - Featured product spotlight section  
 - Lightweight and fast-loading structure  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -88,8 +83,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
